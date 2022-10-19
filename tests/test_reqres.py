@@ -1,5 +1,5 @@
-import requests, json
-import pytest
+import requests
+
 
 class Test:
     def test_sample(self):
